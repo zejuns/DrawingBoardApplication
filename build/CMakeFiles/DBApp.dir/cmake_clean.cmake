@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/DBApp.dir/Dependencies/src/glad.c.o"
+  "CMakeFiles/DBApp.dir/Dependencies/src/glad.c.o.d"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/App.cpp.o"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/App.cpp.o.d"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Core.cpp.o"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Core.cpp.o.d"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/DrawObject.cpp.o"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/DrawObject.cpp.o.d"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/DrawingBoardApplication.cpp.o"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/DrawingBoardApplication.cpp.o.d"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui.cpp.o"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui.cpp.o.d"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_draw.cpp.o"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_draw.cpp.o.d"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_impl_glfw.cpp.o"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_impl_glfw.cpp.o.d"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_impl_opengl3.cpp.o"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_impl_opengl3.cpp.o.d"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_tables.cpp.o"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_tables.cpp.o.d"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_widgets.cpp.o"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_widgets.cpp.o.d"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/ObjModel.cpp.o"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/ObjModel.cpp.o.d"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Objects/Circle.cpp.o"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Objects/Circle.cpp.o.d"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Objects/Line.cpp.o"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Objects/Line.cpp.o.d"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Objects/Square.cpp.o"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Objects/Square.cpp.o.d"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Shader.cpp.o"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Shader.cpp.o.d"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Texture.cpp.o"
+  "CMakeFiles/DBApp.dir/DrawingBoardApplication/Texture.cpp.o.d"
+  "DBApp"
+  "DBApp.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/DBApp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,104 @@
+[
+{
+  "directory": "/Users/zejun/Downloads/DrawingBoardApplication/build",
+  "command": "/usr/bin/clang++  -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/include -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui.cpp.o -c /Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui/imgui.cpp",
+  "file": "/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui/imgui.cpp",
+  "output": "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui.cpp.o"
+},
+{
+  "directory": "/Users/zejun/Downloads/DrawingBoardApplication/build",
+  "command": "/usr/bin/clang++  -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/include -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_draw.cpp.o -c /Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui/imgui_draw.cpp",
+  "file": "/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/Users/zejun/Downloads/DrawingBoardApplication/build",
+  "command": "/usr/bin/clang++  -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/include -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_impl_glfw.cpp.o -c /Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui/imgui_impl_glfw.cpp",
+  "file": "/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_impl_glfw.cpp.o"
+},
+{
+  "directory": "/Users/zejun/Downloads/DrawingBoardApplication/build",
+  "command": "/usr/bin/clang++  -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/include -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_impl_opengl3.cpp.o -c /Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui/imgui_impl_opengl3.cpp",
+  "file": "/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/Users/zejun/Downloads/DrawingBoardApplication/build",
+  "command": "/usr/bin/clang++  -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/include -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_tables.cpp.o -c /Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui/imgui_tables.cpp",
+  "file": "/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/Users/zejun/Downloads/DrawingBoardApplication/build",
+  "command": "/usr/bin/clang++  -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/include -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_widgets.cpp.o -c /Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui/imgui_widgets.cpp",
+  "file": "/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/DBApp.dir/DrawingBoardApplication/Imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/Users/zejun/Downloads/DrawingBoardApplication/build",
+  "command": "/usr/bin/clang++  -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/include -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/DBApp.dir/DrawingBoardApplication/App.cpp.o -c /Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/App.cpp",
+  "file": "/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/App.cpp",
+  "output": "CMakeFiles/DBApp.dir/DrawingBoardApplication/App.cpp.o"
+},
+{
+  "directory": "/Users/zejun/Downloads/DrawingBoardApplication/build",
+  "command": "/usr/bin/clang++  -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/include -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/DBApp.dir/DrawingBoardApplication/Core.cpp.o -c /Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Core.cpp",
+  "file": "/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Core.cpp",
+  "output": "CMakeFiles/DBApp.dir/DrawingBoardApplication/Core.cpp.o"
+},
+{
+  "directory": "/Users/zejun/Downloads/DrawingBoardApplication/build",
+  "command": "/usr/bin/clang++  -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/include -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/DBApp.dir/DrawingBoardApplication/DrawObject.cpp.o -c /Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/DrawObject.cpp",
+  "file": "/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/DrawObject.cpp",
+  "output": "CMakeFiles/DBApp.dir/DrawingBoardApplication/DrawObject.cpp.o"
+},
+{
+  "directory": "/Users/zejun/Downloads/DrawingBoardApplication/build",
+  "command": "/usr/bin/clang++  -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/include -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/DBApp.dir/DrawingBoardApplication/DrawingBoardApplication.cpp.o -c /Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/DrawingBoardApplication.cpp",
+  "file": "/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/DrawingBoardApplication.cpp",
+  "output": "CMakeFiles/DBApp.dir/DrawingBoardApplication/DrawingBoardApplication.cpp.o"
+},
+{
+  "directory": "/Users/zejun/Downloads/DrawingBoardApplication/build",
+  "command": "/usr/bin/clang++  -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/include -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/DBApp.dir/DrawingBoardApplication/ObjModel.cpp.o -c /Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/ObjModel.cpp",
+  "file": "/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/ObjModel.cpp",
+  "output": "CMakeFiles/DBApp.dir/DrawingBoardApplication/ObjModel.cpp.o"
+},
+{
+  "directory": "/Users/zejun/Downloads/DrawingBoardApplication/build",
+  "command": "/usr/bin/clang++  -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/include -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/DBApp.dir/DrawingBoardApplication/Shader.cpp.o -c /Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Shader.cpp",
+  "file": "/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Shader.cpp",
+  "output": "CMakeFiles/DBApp.dir/DrawingBoardApplication/Shader.cpp.o"
+},
+{
+  "directory": "/Users/zejun/Downloads/DrawingBoardApplication/build",
+  "command": "/usr/bin/clang++  -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/include -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/DBApp.dir/DrawingBoardApplication/Texture.cpp.o -c /Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Texture.cpp",
+  "file": "/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Texture.cpp",
+  "output": "CMakeFiles/DBApp.dir/DrawingBoardApplication/Texture.cpp.o"
+},
+{
+  "directory": "/Users/zejun/Downloads/DrawingBoardApplication/build",
+  "command": "/usr/bin/clang  -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/include -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/DBApp.dir/Dependencies/src/glad.c.o -c /Users/zejun/Downloads/DrawingBoardApplication/Dependencies/src/glad.c",
+  "file": "/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/src/glad.c",
+  "output": "CMakeFiles/DBApp.dir/Dependencies/src/glad.c.o"
+},
+{
+  "directory": "/Users/zejun/Downloads/DrawingBoardApplication/build",
+  "command": "/usr/bin/clang++  -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/include -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/DBApp.dir/DrawingBoardApplication/Objects/Circle.cpp.o -c /Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects/Circle.cpp",
+  "file": "/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects/Circle.cpp",
+  "output": "CMakeFiles/DBApp.dir/DrawingBoardApplication/Objects/Circle.cpp.o"
+},
+{
+  "directory": "/Users/zejun/Downloads/DrawingBoardApplication/build",
+  "command": "/usr/bin/clang++  -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/include -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/DBApp.dir/DrawingBoardApplication/Objects/Line.cpp.o -c /Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects/Line.cpp",
+  "file": "/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects/Line.cpp",
+  "output": "CMakeFiles/DBApp.dir/DrawingBoardApplication/Objects/Line.cpp.o"
+},
+{
+  "directory": "/Users/zejun/Downloads/DrawingBoardApplication/build",
+  "command": "/usr/bin/clang++  -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies/include -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Imgui -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication -I/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects -I/Users/zejun/Downloads/DrawingBoardApplication/Dependencies -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/DBApp.dir/DrawingBoardApplication/Objects/Square.cpp.o -c /Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects/Square.cpp",
+  "file": "/Users/zejun/Downloads/DrawingBoardApplication/DrawingBoardApplication/Objects/Square.cpp",
+  "output": "CMakeFiles/DBApp.dir/DrawingBoardApplication/Objects/Square.cpp.o"
+}
+]
